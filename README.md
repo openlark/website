@@ -1,3 +1,3 @@
 # OpenLark
 
-> Docs https://docs.openlark.com
+> [Documents](https://docs.openlark.com)
